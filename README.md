@@ -1,6 +1,6 @@
 # ChapeuSeletor_app
 
-<h1>Oi meu chapa...</h1>
+<h2>Oi meu chapa...</h2>
 
 Trabalho da facul, um app de multiplas telas e uma logica simples para definir o conteudo da segunda tela com base em escolhas.
 
